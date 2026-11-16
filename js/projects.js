@@ -1,0 +1,8 @@
+window.PORTFOLIO_PROJECTS = [
+ {id:"fms",n:"01",symbol:"↗",title:"Polymer FMS — Order to Delivery",desc:"A milestone-based order tracking system with operational dashboards and plant/depot visibility.",tags:["Google Sheets","Apps Script","MIS"],demo:"fms"},
+ {id:"credit",n:"02",symbol:"▤",title:"Financial Health Check & Credit Intake",desc:"A multi-stage information collection and review workflow for financial assessment cases.",tags:["Google Forms","Apps Script","Workflow"],demo:"credit"},
+ {id:"voucher",n:"03",symbol:"₹",title:"Voucher Management & Approval",desc:"An employee voucher submission and multi-stage verification, approval and payment workflow.",tags:["Apps Script","HTML","OCR"],demo:"voucher"},
+ {id:"mou",n:"04",symbol:"⇄",title:"MOU Sales & Dispatch Reconciliation",desc:"A reconciliation system comparing MOU records with dispatch data and highlighting exceptions.",tags:["Google Sheets","Apps Script","Chart.js"],demo:"mou"},
+ {id:"grade",n:"05",symbol:"◈",title:"Polymer Grade Availability Desk",desc:"A shared availability board with plant-wise updates and historical customer-grade matching.",tags:["HTML/CSS/JS","Apps Script","Sheets"],demo:"grade"},
+ {id:"invoice",n:"06",symbol:"▧",title:"Invoice Processing & Dispatch Automation",desc:"An on-demand document workflow for extracting invoice details and organising supporting PDFs.",tags:["n8n","PDF Extraction","Google Drive"],demo:"invoice"}
+];
